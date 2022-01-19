@@ -1,0 +1,9 @@
+[package]
+authors = ["inkhare <iapricot@foxmail.com>"]
+description = "A high performance 2D/3D image render engine."
+edition = "2018"
+keywords = ["asynchronous", "render"]
+license = "MIT/Apache-2.0"
+name = "graham"
+readme = "README.md"
+version = "0.0.1"
